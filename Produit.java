@@ -9,4 +9,5 @@ private int prixUHT;
 private int quantiteStock;
 private blob image;
 
+
 }
